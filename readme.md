@@ -3,7 +3,7 @@ A powerful PHP-powered Chaturbate aggregator with advanced analytics and discove
 Grid view, model profiles, live filters, discovery hub, and comprehensive analytics dashboard. All data is local/cached. No database required.
 
 > If you want to thank me and keep this project alive:
-> - Please don't forget to sign up via my [affiliate link](([https://chaturbate.com/in/?tour=9O7D&campaign=2DLMP&track=default](https://chaturbate.com/in/?tour=07kX&campaign=T2CSW&track=github))
+> - Please don't forget to sign up via my [affiliate link](https://chaturbate.com/in/?tour=07kX&campaign=T2CSW&track=github)
 > _(Seriously, It helps a lot!)_
 
 ---
