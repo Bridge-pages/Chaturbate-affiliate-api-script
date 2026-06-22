@@ -55,7 +55,7 @@ cd YOURREPO
 ```
 Or download and unzip [here](https://github.com/Kudocams/TinyCB/archive/master.zip).
 
-After downloading, [sign up at Chaturbate](https://chaturbate.com/in/?track=default&tour=9O7D&campaign=2DLMP) to get your affiliate ID.
+After downloading, [sign up at Chaturbate](https://chaturbate.com/in/?tour=07kX&campaign=T2CSW&track=github) to get your affiliate ID.
 
 ### 2. **Permissions**
 Make sure the following are **writable by your web server**:
